@@ -9,8 +9,9 @@
   "commands": [
     {
       "name": "index",
-      "title": "status",
-      "description": "Template for showing a static list",
+      "title": "Teams Status",
+      "subtitle": "Microsoft Teams",
+      "description": "Set your status in Microsoft Teams",
       "mode": "view"
     }
   ],
